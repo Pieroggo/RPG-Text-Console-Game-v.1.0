@@ -18,7 +18,7 @@ private:
 	bool inGame = true;
 	bool gameOn = true;
 	bool dev = false;
-	int enemiesBeaten = 0; //pierwszy tekst przed walk¹ z nastêpnym, drugi w walce
+	int enemiesBeaten = 0; //pierwszy tekst przed walkÂ¹ z nastÃªpnym, drugi w walce
 public:
 	char inputChar;
 	std::string inputString;
@@ -411,7 +411,7 @@ public:
 	}
 	void gameRules(bool devOn=false) {
 		system("cls");
-		cout << "insert random rulz lol" << endl;
+		cout << "Insert the given number to use the option assigned to the number. In-game, to choose an option, write a command corresponding to an option.\nWhen in battle, pick the letter corresponding to the move you want to pick." << endl;
 		cout << "Dev Mode: ";
 		if (devOn == 1)
 		cout << "On\nPress Enter to go back to the main menu.";
