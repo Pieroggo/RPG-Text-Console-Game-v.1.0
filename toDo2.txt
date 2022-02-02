@@ -1,0 +1,2 @@
+- "dynamiczne", losowe tworzenie wrogów
+- wybór postaci (array dwuwymiarowy)
