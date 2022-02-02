@@ -1,3 +1,0 @@
-- dev mode: creator nowych ruchów
-- story -> dużo pisania
-
